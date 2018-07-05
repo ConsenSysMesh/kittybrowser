@@ -1,0 +1,23 @@
+body, html {
+  padding: 10px;
+  font-family: Arial;
+  font-size: 12px;
+  color: #333;
+  font-size: 16px;
+}
+
+.loading {
+  text-align: center;
+  width: 320px;
+  margin: 20px auto;
+}
+
+.warning {
+  color: #666;
+  padding: 10px 0;
+}
+
+.error {
+  color: tomato;
+  padding: 10px 0;
+}
