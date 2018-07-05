@@ -11,13 +11,13 @@ For this challenge you will create a simple UI that will be able to interact wit
 # Requirements to complete this challenge
 
 - Use the code provided in this repo as a starting point to build your solution
-- Given the address for the CryptoKitties Smart Contract: `0x06012c8cf97bead5deae237070f9587f8e7a266d#code` Find its *ABI* (You will need it to complete the challenge)
+- Given the address for the CryptoKitties Smart Contract: `0x06012c8cf97bead5deae237070f9587f8e7a266d` Find its *ABI* (You will need it to complete the challenge)
 - Build a simple UI where the user can type in an ID and display the following information about a Kitty:
   - Genes
   - Birth time
   - Generation
-- You will get extra points if you also display the Kitty's picture.
-- You will get extra points if you create a "Fetch random Kitty" button.
+- You will get extra points if you also display the Kitty's picture. 🏅
+- You will get extra points if you create a "Fetch random Kitty" button. 🏅
 - Feel free to customize the styles as you wish or use any extra libraries that you need
 
 
@@ -97,5 +97,3 @@ Once you have the Smart Contract's ABI, uncomment the lines you need to add the 
 ## Questions or comments
 
 For any questions or comments please contact `Dragos Rizescu <dragos.rizescu@consensys.net>` or `Ruben  Torres <ruben.torres@consensys.net>`
-
-
