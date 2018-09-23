@@ -13,7 +13,9 @@ class App extends Component {
     return (
       <DrizzleProvider options={drizzleOptions}>
         <Loading>
-          <Browser />
+          <div className="container">
+            <Browser />
+          </div>
         </Loading>
       </DrizzleProvider>
     );
