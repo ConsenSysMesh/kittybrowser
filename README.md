@@ -16,6 +16,7 @@ For this challenge you will create a simple UI that will be able to interact wit
   - Genes
   - Birth time
   - Generation
+- Write a unit test that you consider relevant, using the unit test framework of your preference. It should run using `npm run test`
 - You will get extra points if you also display the Kitty's picture. 🏅
 - You will get extra points if you create a "Fetch random Kitty" button. 🏅
 - Feel free to customize the styles as you wish or use any extra libraries that you need
